@@ -158,7 +158,8 @@ Github的readme支持添加emoji表情，输入不同的符号码(两个冒号�
 往往看完了文档或者readme，这时候你需要一个一键返回顶部，基本格式为Loading…
 
 ## 17.2 效果：
-Loading…
+
+ Loading # 1
 
 
 # 18. diff语法
