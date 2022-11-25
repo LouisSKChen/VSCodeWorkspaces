@@ -146,7 +146,7 @@ for i or range(10):
 
 # 16. 添加表情
 ## 16.1 说明：
-Github的readme支持添加emoji表情，输入不同的符号码(两个冒号包围的字符)可以显示出不同的表情。下面我就简单列出常见的表情，另外其他表情可以通过查询 [Alt](https://www.webfx.com/tools/emoji-cheat-sheet/ "Github官网表情")
+Github的readme支持添加emoji表情，输入不同的符号码(两个冒号包围的字符)可以显示出不同的表情。下面我就简单列出常见的表情，另外其他表情可以通过查询 [Github官网表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 
