@@ -178,3 +178,5 @@ Github的readme支持添加emoji表情，输入不同的符号码(两个冒号�
 ```
 
 refer:  https://blog.csdn.net/A33280000f/article/details/115836658
+refer:  https://blog.zhujian.life/posts/79f69ebe.html
+refer:  https://github.com/RichardLitt/standard-readme/blob/master/spec.md
