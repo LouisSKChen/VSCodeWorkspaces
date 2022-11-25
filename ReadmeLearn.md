@@ -35,7 +35,7 @@ BUAA，我很高兴认识你们！
 
 ## 4.2 效果：
 
-<p[空格]align="center">大家好，我叫Alice，来自BUAA，我很高兴认识你们！</p>
+<p align="center">大家好，我叫Alice，来自BUAA，我很高兴认识你们！</p>
 
 
 # 5. 标题分级
