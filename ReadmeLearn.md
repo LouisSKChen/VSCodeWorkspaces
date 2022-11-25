@@ -153,5 +153,24 @@ for i or range(10):
 Github的readme支持添加emoji表情，输入不同的符号码(两个冒号包围的字符)可以显示出不同的表情。下面我就简单列出常见的表情，另外其他表情可以通过查询 [Github官网表情](https://www.webfx.com/tools/emoji-cheat-sheet/) :bowtie:
 
 
+# 17. 使用锚点
+## 17.1 说明：
+往往看完了文档或者readme，这时候你需要一个一键返回顶部，基本格式为Loading…
+
+## 17.2 效果：
+Loading…
+
+
+# 18. diff语法
+## 18.1 说明：
+一般diff功能可以实现一个文件内容的增添与删减操作。GFM中可以显示展示diff效果。基本格式：同样以三个反引号后面写diff，用+绿色开头表示新增，-红色开头表示删除，还有！黄色开头和#黑色开头。
+
+
+## 18.2 效果：
++ 大家好
+- 我叫Alice
+! 来自BUAA
+# 我很高兴认识你们！
+
 
 refer:  https://blog.csdn.net/A33280000f/article/details/115836658
