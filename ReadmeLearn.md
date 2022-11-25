@@ -84,7 +84,7 @@ titile是鼠标悬停在图片时显示的文本
 
 在表头下方的分割线标记中加入:，可以实现对齐方式：
 |left|center|right|
-|:---|:---|:---|
+|:---|:---:|---:|
 |left|center|right|
 |left|center|right|
 
